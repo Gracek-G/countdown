@@ -65,7 +65,7 @@ h1 {
 
 /* Form */
 .form {
-  width: 280px;
+  width: 480px;
 }
 
 label {
@@ -154,7 +154,6 @@ li span {
   }
 }
 
-
 /* Media Query: Large Smartphone (Vertical) */
 @media screen and (max-width: 600px) {
     .video-background {
@@ -204,4 +203,3 @@ li span {
       font-size: 40px;
     }
   }
-  
